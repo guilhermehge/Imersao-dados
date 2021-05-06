@@ -2,7 +2,7 @@
 
 Questão principal dos desafios:
 
-### Desafio 08: Resumo do que você aprendeu com os dados
+### Resumo do que você aprendeu com os dados
 
 Através da análise podemos observar os seguintes pontos:
 - Há 3289 tipos de drogas no experimento. 
